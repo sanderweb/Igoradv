@@ -1,0 +1,362 @@
+.version.material_de_apoio /* version checker */
+{
+	color: #0000F2;
+	background-color: #91BF6E;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 569.9024911032029px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+}
+
+#accordionu1862
+{
+	z-index: 2;
+}
+
+#u1863
+{
+	z-index: 3;
+}
+
+#u1866-3
+{
+	z-index: 4;
+	min-height: 49px;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#u1866-3:hover
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 49px;
+	margin: 0px;
+}
+
+#u1866-3:active
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 49px;
+	margin: 0px;
+}
+
+#u1866-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 51px;
+	margin: 0px;
+}
+
+#u1864
+{
+	z-index: 7;
+}
+
+#u1914
+{
+	min-height: 25px;
+	padding-bottom: 26px;
+}
+
+#u1914:active
+{
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1917-4
+{
+	min-height: 25px;
+	top: 13px;
+}
+
+#u1914:active #u1917-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1921
+{
+	min-height: 25px;
+	padding-bottom: 26px;
+}
+
+#u1914.MuseMenuActive,#u1921:active
+{
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1923-4
+{
+	min-height: 25px;
+	top: 13px;
+}
+
+#u1914.MuseMenuActive #u1917-4,#u1921:active #u1923-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1928
+{
+	min-height: 25px;
+	padding-bottom: 26px;
+}
+
+#u1921.MuseMenuActive,#u1928:active
+{
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1931-4
+{
+	min-height: 25px;
+	top: 13px;
+}
+
+#u1921.MuseMenuActive #u1923-4,#u1928:active #u1931-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1935
+{
+	min-height: 25px;
+	padding-bottom: 27px;
+}
+
+#u1928.MuseMenuActive,#u1935:active
+{
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1937-4
+{
+	min-height: 25px;
+	top: 13px;
+}
+
+#u1928.MuseMenuActive #u1931-4,#u1935:active #u1937-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1944
+{
+	min-height: 25px;
+	padding-bottom: 27px;
+}
+
+#u1935.MuseMenuActive,#u1944:active
+{
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1944.MuseMenuActive
+{
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1947-4
+{
+	min-height: 25px;
+	top: 13px;
+}
+
+#u1935.MuseMenuActive #u1937-4,#u1944:active #u1947-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1944.MuseMenuActive #u1947-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 25px;
+	margin: 0px;
+}
+
+#u1920,#u1927,#u1934,#u1941
+{
+	margin-top: 2px;
+}
+
+#menuu1912,#menuu1912-bw
+{
+	z-index: 8;
+	min-height: 275px;
+}
+
+#accordionu1862-bw
+{
+	z-index: 2;
+	margin-bottom: -1px;
+	margin-top: -1px;
+}
+
+#u1877-6
+{
+	z-index: 39;
+	width: 187px;
+	min-height: 71px;
+	margin-right: -10000px;
+	left: 97px;
+}
+
+#u1878
+{
+	z-index: 45;
+	width: 92px;
+	margin-right: -10000px;
+	left: 2px;
+}
+
+#u1881
+{
+	z-index: 47;
+	width: 71px;
+	margin-right: -10000px;
+	left: 296px;
+}
+
+#u2084
+{
+	z-index: 70;
+	width: 380px;
+	min-height: 570px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 2px;
+	position: relative;
+}
+
+#page_position_content,#paccordionu1862,#pu1988
+{
+	width: 0.01px;
+}
+
+#u1988
+{
+	z-index: 49;
+	min-height: 52.97500000000002px;
+	padding: 4px 119px 14.024999999999977px 2px;
+}
+
+#u1990-6
+{
+	z-index: 57;
+	width: 143px;
+	min-height: 29px;
+	margin-left: 116px;
+}
+
+#u1993
+{
+	z-index: 69;
+	width: 171px;
+	min-height: 24px;
+}
+
+#u1988-bw
+{
+	z-index: 49;
+	min-height: 52.97500000000002px;
+}
+
+#u1989-7
+{
+	z-index: 50;
+	min-height: 10px;
+}
+
+#u1989-7-bw
+{
+	z-index: 50;
+	min-height: 10px;
+	margin-top: 58px;
+}
+
+#u1991-6
+{
+	z-index: 63;
+	width: 143px;
+	min-height: 23px;
+	margin-right: -10000px;
+	margin-top: 28px;
+	left: 237px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
